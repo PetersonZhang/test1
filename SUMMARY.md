@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [API 文档](README.md)
 * [Untitled](untitled.md)
 
